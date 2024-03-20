@@ -2,7 +2,6 @@
 University of Michigan, URP 535 -- Ken Fukutomi
 
 ### Authors of the Paper
-- Ramshankar Yadhunath (Amrita School of Engineering, Bengaluru)
-- Srivenkata Srikanth (Amrita School of Engineering, Bengaluru)
---
+- Ken Fukutomi (University of Michigan, Urban Tech B.Sc.,)
+  
 # **Introduction 📌** 
