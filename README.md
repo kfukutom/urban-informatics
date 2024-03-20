@@ -1,7 +1,7 @@
 ## ****Predictive Policing and Crime Forecasting 👮****
 *Urban Informatics, Prof. Xiaofan Liang*
 
-### Authors of the Paper
+### Authors of the Project
 - Ken Fukutomi (University of Michigan, Taubman Architecture  & Urban Planning)
   
 # **Introduction 📌** 
