@@ -2,7 +2,7 @@
 *Urban Informatics, Prof. Xiaofan Liang*
 
 ### Authors of the Project
-- Ken Fukutomi (University of Michigan, Taubman Architecture  & Urban Planning)
+- Ken Fukutomi (University of Michigan, Taubman)
 - Ben Spilo (University of Michigan, School of Information)
   
 # **Introduction 📌** 
