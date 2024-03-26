@@ -22,5 +22,5 @@ Hence we must:
 
 ![Image Alt text](/additional/model.jpg)
 
-
+⭐ By incorporating time dummies (categorized as 0 or 1), we create a model that adopts the format of the 'repeated sales method,' commonly used in the real estate sector, for analyzing crime data. This approach is particularly useful when forecasting is challenging due to numerous variables, such as crime category, time, period, and season. Employing the rolling method and the hedonic model enables more accurate predictions based on unique characteristics and specific time periods. For each period, we run a statistical analysis using the statsmodels.api formula. This method enhances our ability to explore the data more exploratively.
 
