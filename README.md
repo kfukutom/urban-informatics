@@ -20,6 +20,7 @@ Hence we must:
 - Feature Engineering: Create new variables that might be relevant for your analysis. For instance, you could derive variables like the time of day (morning, afternoon, night) or categorize locations into broader areas.
 - Normalization: Depending on your analysis, you may need to normalize some of your data, especially if you plan to compare the influence of variables on different scales.
 
+![Image Alt text](/images/img.jpg
 
 
 
