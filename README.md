@@ -14,11 +14,6 @@ https://365datascience.com/tutorials/python-tutorials/predictive-model-python/
 Assignment Info: https://xfliang.notion.site/Final-Proposal-e08b2c8a118d4fd19747bded1c87b7df
 
 # **Modeling 🔨** 
-in order to better understand this dataset, we will be utilizing pandas built in get_dummies() method to separate each time period as an activation key, to further utilize in our Hedonic Regression Model. Using a this regression model for predictive policing with a Chicago crime dataset involves several steps. A hedonic regression is a method used to estimate the influence of various factors on prices or values, often applied in real estate or labor economics. In the context of predictive policing, you could adapt it to estimate the influence of various factors (e.g., location, time, socio-economic indicators) on crime rates or crime types.
-Hence we must:
-- Clean the Data: Ensure your dataset is free from errors or inconsistencies. This includes handling missing values, correcting data types, and removing duplicates.
-- Feature Engineering: Create new variables that might be relevant for your analysis. For instance, you could derive variables like the time of day (morning, afternoon, night) or categorize locations into broader areas.
-- Normalization: Depending on your analysis, you may need to normalize some of your data, especially if you plan to compare the influence of variables on different scales.
 
 ![Image Alt text](/additional/model.jpg)
 
