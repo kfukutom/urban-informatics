@@ -1,7 +1,7 @@
 ## ****Predictive Policing and Crime Forecasting 👮****
 *Urban Informatics, Professor Xiaofan Liang*
 
-### Authors of the Project
+### Group
 - Ken Fukutomi (University of Michigan, Urban Technology)
 - Benjamin Spilo (University of Michigan, B.Sc., Informatics)
   
