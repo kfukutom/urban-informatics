@@ -3,7 +3,7 @@
 
 ### Authors of the Project
 - Ken Fukutomi (University of Michigan, Urban Technology)
-- Benjamin Spilo (University of Michigan, B.Sc., Information)
+- Benjamin Spilo (University of Michigan, B.Sc., Informatics)
   
 # **Abstract** 
 This report provides a comprehensive analysis of all arrest types in Chicago for the year 2019-2022. The task presented a challenge in identifying a measure of criminality that is inherently subjective. Unlike burglaries, assaults, and violent crimes, which are often the result of civilian reports through 911 calls, arrests predominantly depend on the discretion of police officers. Our decision to focus on arrests was driven by the recognition of systemic bias and the disproportionate policing of communities with lower incomes and minority populations. The primary aim of this study is to develop a machine learning model capable of identifying potential hotspots for future arrests in Chicago. 
