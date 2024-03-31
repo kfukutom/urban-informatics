@@ -1,4 +1,4 @@
-## ****Predictive Policing and Crime Forecasting 👮****
+## ****Predictive Policing and Crime Forecasting****
 *Urban Informatics, Professor Xiaofan Liang*
 
 ### Group
