@@ -15,7 +15,7 @@ Assignment Info: https://xfliang.notion.site/Final-Proposal-e08b2c8a118d4fd19747
 
 # **Modeling** 
 
-![Image Alt text](/additional/model.jpg)
+![Image Alt text](/additional/kNearNeigh.gif)
 
 ⭐ The first step involves collecting and preparing a dataset that includes historical crime data for different neighborhoods in Chicago. This dataset would also include features such as the walkability score of each neighborhood (which reflects how easy it is to accomplish daily errands on foot), transit accessibility (how easily residents can access public transportation), and various socioeconomic factors (like income levels, employment rates, educational attainment, etc.) Before applying the k-NN algorithm, it's crucial to select relevant features that are likely to influence crime rates. In this case, the features mentioned (walkability score, time, transit accessibility, and socioeconomic factors) are chosen because they are believed to have a significant impact on neighborhood safety and crime rates. For example, neighborhoods with high walkability and good transit accessibility might see different crime patterns than less accessible areas. Similarly, socioeconomic factors can significantly influence crime rates, with areas facing economic hardships often experiencing higher rates of crime.
 
