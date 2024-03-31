@@ -24,3 +24,5 @@ Q: *"What exactly does k-NN algorithm do?"* : So, the k-nearest neighbor algorit
 💻 Once the k nearest neighbors are identified, the algorithm predicts the crime rate for the neighborhood in question by aggregating the crime rates of these neighbors. This aggregation could be a simple average or a weighted average, where more similar neighbors have a greater influence on the prediction. Time is also such a crucial factor in predicting crime rates, as crime patterns can vary significantly by season, month, or even time of day. The model might include time as a feature by categorizing data points into time slots (e.g., night, day, weekend) and considering the historical crime rates for these periods. Other dynamic factors, like changes in socioeconomic conditions or transit options, can also be periodically updated in the dataset to improve prediction accuracy.
 
 > --> Scikit learn documentation for the KNN Classifier: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+So, **is using machine learning algorithms to predict and forecast crimes feasible?** 
