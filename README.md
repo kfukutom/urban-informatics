@@ -32,5 +32,5 @@ So, **is using machine learning algorithms to predict and forecast crimes feasib
 # **Explore Road Networks**
 By understanding Chicago's network of roads, transportation, and other public access amenities, we would like to make predictive forecasting models in which police forces could be potentially reinforced in certain areas with a certain percentage of feature being common, prevalant, etc. 
 
-
+![Image Alt text](/r-component/advanced_ch_map.jpeg)
 
