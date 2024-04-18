@@ -1,6 +1,8 @@
 ## ****Predictive Policing and Crime Forecasting****
 *Urban Informatics, Professor Xiaofan Liang*
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
 ### Group Info
 - Ken Fukutomi (University of Michigan, Urban Technology)
 - Benjamin Spilo (University of Michigan, B.Sc., Informatics)
@@ -27,4 +29,6 @@ Q: *"What exactly does k-NN algorithm do?"* : So, the k-nearest neighbor algorit
 
 So, **is using machine learning algorithms to predict and forecast crimes feasible?** 
 
-Header 2 -- 
+# **Explore Road Networks**
+By understanding Chicago's network of roads, transportation, and other public access amenities, we would like to make predictive forecasting models in which police forces could be potentially reinforced in certain areas with a certain percentage of feature being common, prevalant, etc. 
+
