@@ -28,3 +28,7 @@ Q: *"What exactly does k-NN algorithm do?"* : So, the k-nearest neighbor algorit
 > --> Scikit learn documentation for the KNN Classifier: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
 
 So, **is using machine learning algorithms to predict and forecast crimes feasible?** 
+- **Clone the repo**: Use `git clone` to copy this repository to your local machine.
+  
+  ```bash
+  git clone https://github.com/kfukutom/urban-informatics.git
