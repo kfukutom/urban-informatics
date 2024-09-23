@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### Group Info
-- Ken Fukutomi (University of Michigan, B.Sc., Computer Science)
+- Ken Fukutomi (University of Michigan, B.Sc., Urban Tech + CS)
 - Benjamin Spilo (University of Michigan, B.Sc., Informatics)
   
 # **Abstract** 
